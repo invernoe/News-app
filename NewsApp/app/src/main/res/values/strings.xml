@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="no_news">No news to be displayed.</string>
+
+    <string name="no_internet">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="settings_menu_label">News Settings</string>
+
+    <string name="settings_search_label">Search For</string>
+    <string name="settings_search_key" translatable="false">search</string>
+    <string name="settings_search_default" translatable="false">technology</string>
+
+    <string name="settings_sections_label">Section</string>
+    <string name="settings_sections_key" translatable="false">section</string>
+    <string name="settings_sections_default" translatable="false">@string/settings_section_technology_value</string>
+
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+
+    <string name="settings_section_world_label">World News</string>
+    <string name="settings_section_world_value" translatable="false">world</string>
+
+    <string name="settings_section_science_label">Science</string>
+    <string name="settings_section_science_value" translatable="false">science</string>
+
+    <string name="settings_section_music_label">Music</string>
+    <string name="settings_section_music_value" translatable="false">music</string>
+
+</resources>
